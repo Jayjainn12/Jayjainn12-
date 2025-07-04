@@ -20,7 +20,7 @@ A role-based Java web app with product management, add-to-cart, and billing – 
 
 ### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/jay-jain-java-dev)
-- 📧 Email: jayjainn12@gmail.com
+- 📧 Email:iamjay1244@gmail.com
 
 ---
 
